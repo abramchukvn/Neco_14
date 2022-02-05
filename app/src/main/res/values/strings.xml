@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Neco_14</string>
+    <string name="ок" translatable="false">ОК</string>
+    <string name="hello">Hello</string>
+    <string name="sing_in" translatable="false">SING IN</string>
+    <string name="sing_up" translatable="false">SING UP</string>
+    <string name="avatar" translatable="false">Avatar</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="name" translatable="false">Имя</string>
+    <string name="name2" translatable="false">Фамилия</string>
+    <string name="name3" translatable="false">Отчество</string>
+    <string name="done" translatable="false">Готово</string>
+
+</resources>
